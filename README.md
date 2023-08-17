@@ -2,7 +2,7 @@
 In the wake of the unprecedented global challenge posed by the COVID-19 pandemic, a new breed of heroes emerged to battle against this invisible yet formidable foe. These modern-day warriors, often hidden behind masks and protective gear, stepped forward with unwavering courage and selflessness to combat the spread of the virus. Their dedication and sacrifices have illuminated the true essence of resilience, empathy, and the human spirit's capacity to triumph in the face of adversity.
 
 
-![Corona](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/a92b563d-edf0-4d83-8f35-94ea62365f21)
+![Corona](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/d75d0368-aed2-4ac3-8a11-7d01ad3bdee3)
 
 ## Data
 Source Data- Covid_19 Dataset
@@ -24,13 +24,10 @@ Visualize the geographic distribution of COVID-19 cases across different countri
 ## Key Performance Indicators (KPIs):
 Monitor critical KPIs such as Case Fatality Rate (CFR), Recovery Rate, and Active Cases, helping to assess the severity and response to the pandemic.
 ## Dashboard
-![FRONT(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/f49d65f2-d92f-4774-b28d-640d541ab604)
+![FRONT(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/b22f0233-15b0-447b-9e4c-659e72762276)
 
+![DASHBOARD(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/95dec887-eddf-43b9-a261-494e43dba6af)
 
-![DASHBOARD(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/a6d8690d-04fb-48a9-bc70-4a2e46feb986)
-
-
-![DASHBOARD(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/daebd741-8a25-4f04-9257-348221bcaff1)
 
 
 ## CONCLUSION
