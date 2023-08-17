@@ -31,3 +31,7 @@ Monitor critical KPIs such as Case Fatality Rate (CFR), Recovery Rate, and Activ
 
 
 ![DASHBOARD(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/daebd741-8a25-4f04-9257-348221bcaff1)
+
+
+## CONCLUSION
+The journey through this report has revealed the undeniable importance of data in understanding and responding to global crises. As we grappled with the unprecedented challenges brought forth by COVID-19, the ability to transform vast amounts of information into actionable insights proved to be invaluable. From tracking infection rates to assessing healthcare capacities and analyzing economic fluctuations, Power BI has empowered us to make informed decisions, allocate resources effectively, and devise strategies for recovery.
