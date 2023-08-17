@@ -1,4 +1,6 @@
 # Covid-19 Global Analytics Powerbi Report
+In the wake of the unprecedented global challenge posed by the COVID-19 pandemic, a new breed of heroes emerged to battle against this invisible yet formidable foe. These modern-day warriors, often hidden behind masks and protective gear, stepped forward with unwavering courage and selflessness to combat the spread of the virus. Their dedication and sacrifices have illuminated the true essence of resilience, empathy, and the human spirit's capacity to triumph in the face of adversity.
+
 
 ![Corona](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/a92b563d-edf0-4d83-8f35-94ea62365f21)
 
