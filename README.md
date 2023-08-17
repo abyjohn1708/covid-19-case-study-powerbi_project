@@ -26,6 +26,8 @@ Monitor critical KPIs such as Case Fatality Rate (CFR), Recovery Rate, and Activ
 ## Dashboard
 ![FRONT(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/b22f0233-15b0-447b-9e4c-659e72762276)
 
+![dashboard(covid1)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/c2eb9d79-0377-422f-83ae-d852f38038e0)
+
 ![DASHBOARD(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/95dec887-eddf-43b9-a261-494e43dba6af)
 
 
