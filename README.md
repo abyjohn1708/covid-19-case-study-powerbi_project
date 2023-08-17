@@ -4,6 +4,7 @@
 
 ## Data
 Source Data- Covid_19 Dataset
+
 link- https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 
 ## Overview
@@ -21,8 +22,10 @@ Visualize the geographic distribution of COVID-19 cases across different countri
 ## Key Performance Indicators (KPIs):
 Monitor critical KPIs such as Case Fatality Rate (CFR), Recovery Rate, and Active Cases, helping to assess the severity and response to the pandemic.
 ## Dashboard
-![FRONT (covid)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/d186a5b2-05fe-4917-aec9-91c557ee9b31)
-![dashboard(covid)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/90d11163-7b43-4db7-bd5f-1128764a9b23)
-![dash(covid1)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/aef7232b-b71c-4062-9529-8043874c753e)
+![FRONT(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/f49d65f2-d92f-4774-b28d-640d541ab604)
+
 
 ![DASHBOARD(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/a6d8690d-04fb-48a9-bc70-4a2e46feb986)
+
+
+![DASHBOARD(COVID)](https://github.com/abyjohn1708/covid-19-case-study-powerbi_project/assets/133591355/daebd741-8a25-4f04-9257-348221bcaff1)
